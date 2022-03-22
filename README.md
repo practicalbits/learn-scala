@@ -1,1 +1,1 @@
-# learn-scala
+learn-scala
